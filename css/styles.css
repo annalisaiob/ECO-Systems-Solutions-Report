@@ -43,7 +43,7 @@ html {
 
 body, p {
 	color: #929292; 
-	font: 400 1rem/1.625rem "Ubuntu", sans-serif;
+	font: 300 1rem/1.625rem "Roboto", sans-serif;
 }
 
 h1 {
@@ -51,7 +51,7 @@ h1 {
 	font-weight: 700;
 	font-size: 2.5rem;
 	line-height: 3.25rem;
-	font-family: 'Noto Serif', serif;
+	font-family: 900 'Roboto', serif;
 }
 
 h2 {
@@ -59,7 +59,7 @@ h2 {
 	font-weight: 700;
 	font-size: 2rem;
 	line-height: 2.5rem;
-	font-family: 'Noto Serif', serif;
+	font-family: 'Roboto', serif;
 }
 
 h3 {
@@ -67,7 +67,7 @@ h3 {
 	font-weight: 700;
 	font-size: 1.75rem;
 	line-height: 2.25rem;
-	font-family: 'Noto Serif', serif;
+	font-family: 'Roboto', serif;
 }
 
 h4 {
@@ -75,7 +75,7 @@ h4 {
 	font-weight: 700;
 	font-size: 1.5rem;
 	line-height: 2rem;
-	font-family: 'Noto Serif', serif;
+	font-family: 'Roboto', serif;
 }
 
 h5 {
@@ -83,7 +83,7 @@ h5 {
 	font-weight: 700;
 	font-size: 1.25rem;
 	line-height: 1.625rem;
-	font-family: 'Noto Serif', serif;
+	font-family: 'Roboto', serif;
 }
 
 h6 {
@@ -91,7 +91,7 @@ h6 {
 	font-weight: 700;
 	font-size: 1rem;
 	line-height: 1.375rem;
-	font-family: 'Noto Serif', serif;
+	font-family: 'Roboto', serif;
 }
 
 .p-large {
